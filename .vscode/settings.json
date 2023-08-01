@@ -1,0 +1,10 @@
+{
+  //"scss.lint.unknownAtRules": "ignore",
+  "css.customData": ["./.vscode/css-data.json"],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}

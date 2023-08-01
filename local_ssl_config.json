@@ -1,0 +1,8 @@
+{
+  "localhost": {
+    "source": 3001,
+    "target": 3000,
+    "key": "certs/localhost.key",
+    "cert": "certs/localhost.crt"
+  }
+}

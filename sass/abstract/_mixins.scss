@@ -1,0 +1,7 @@
+@mixin lightTheme {
+  --clr-bg: hsl(222, 74%, 94%);
+}
+
+@mixin darkTheme {
+  --clr-bg: hsl(235, 16%, 15%);
+}
